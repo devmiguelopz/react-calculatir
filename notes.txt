@@ -1,0 +1,19 @@
+className=> clase de react
+
+react utiliza camelcase para atributos de html
+
+
+
+los componenes van con letras mayus al inicio
+
+
+Como se importa
+1.- import component instalados
+2.- impor component propos
+3.-import css
+
+
+
+use state
+
+useState() debuelve un array de un donde el primer valor , es el valor inicial del esatdo y el segundo, es una función que modifica ese esatdo!!!! xD
